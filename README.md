@@ -1,2 +1,0 @@
-# .github
-DIEHamburg - Learning Together
